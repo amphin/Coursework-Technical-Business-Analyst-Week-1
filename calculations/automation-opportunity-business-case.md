@@ -23,8 +23,6 @@
 | **Annual cost saved** | £5,793 |
 | **Annual revenue uplift** | 0.5% (~£480,000) |
 | **Payback period** | 93 months |
-| **Annual hours saved** | 71 hrs |
-| **Annual cost saved** | £1,562 |
 
 | **Payback period** | 54 months |
 ```
