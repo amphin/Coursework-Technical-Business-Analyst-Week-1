@@ -10,7 +10,7 @@ Write 80-120 words answering:
 - Why does it matter financially and operationally? 
 -->
 
-Legacy-Trust Bank have invested into modernising their systems, however the debt recovery process has not evolved accordingly. As a result, agents have developed manual workarounds, including spreadsheets, to be able to track and update delinquent accounts. However, adelinquent account volumes have increased to over 100,000, managers have lost visibility of account journeys, and customers have been subject to longer resolution times. Financially, the bank loses around 15% revenue through delayed action and failed collections. Operationally, straightforward cases tend to take 8 minutes longer to resolve on average, putting a strain of the collections team by diverting agents away from higher-value tasks.
+Legacy-Trust Bank have invested into modernising their systems, however the debt recovery process has not evolved accordingly. As a result, agents have developed manual workarounds, including spreadsheets, to be able to track and update delinquent accounts. However, adelinquent account volumes have increased to over 100,000, managers have lost visibility of account journeys, and customers have been subject to longer resolution times. Financially, the bank loses around 15% revenue through delayed action and failed collections. Operationally, straightforward cases tend to take 8 minutes longer than ideal to resolve on average, putting a strain of the collections team by diverting agent capacity away from higher-value tasks.
 
 
 ## 2. Stakeholder overview
@@ -46,14 +46,18 @@ Starter examples:
 
 ## 4. Traceability starter
 
-Create a first-pass table.
+<!-- Create a first-pass table. -->
 
 | Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable |
 |---|---|---|---|
-| TODO | TODO | TODO | TODO |
+| Agents spend a significant amount of time reconciling information across speadsheets, email trails and the legacy collections system. | Case workflow and customer contact | Financial assumptions | As-Is process map |
+| Cases remain in 'callback pending' status because follow-up is not properly enforced. | Case follow-up | Financial assumptions | As-Is process map and JTBDs
+|Managers lack visibility into case progress | Case monitoring and reporting | Stakeholder notes | As-Is process map and JTBDs |
+| Delayed actions and failed collections contribute to an estimated 15% revenue loss | Case workflow and customer contact | Financial assumptions | ROI model |
+| Straightforward cases consume agent time despite requiring limited judgement | Customer servicing and case triage | Delinquent account data | To-Be process map and automation opportunity assessment
 
-## 5. Final problem statement
+<!-- ## 5. Final problem statement
 
 End with a concise problem statement in your own words.
 
-> Tip: if your statement still sounds like 'the bank needs digital transformation,' it is too broad.
+> Tip: if your statement still sounds like 'the bank needs digital transformation,' it is too broad. -->
