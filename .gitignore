@@ -10,10 +10,10 @@ Thumbs.db
 *.bak
 
 # Exported working files
-*.pdf
 *.png
 *.jpg
 *.jpeg
+*.bpmn
 
 # Spreadsheet lock files
 *.xlsx.lock
@@ -22,3 +22,5 @@ Thumbs.db
 # Editor settings
 .vscode/
 .idea/
+
+Legacy-Trust-Data/
